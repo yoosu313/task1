@@ -38,21 +38,21 @@ main {
 
 .flow-image1 {
   height: 150px;
-  background-image: url(chapter9_exercise/img/flow01.png);
+  background-image: url(img/flow01.png);
   background-size: cover;
   background-position: bottom;
 }
 
 .flow-image2 {
   height: 150px;
-  background-image: url(chapter9_exercise/img/flow02.png);
+  background-image: url(img/flow02.png);
   background-size: cover;
   background-position: bottom;
 }
 
 .flow-image3 {
   height: 150px;
-  background-image: url(chapter9_exercise/img/flow03.png);
+  background-image: url(img/flow03.png);
   background-size: cover;
   background-position: bottom;
 }
@@ -76,9 +76,10 @@ footer {
   .flow-box {
     width: 90%;
     margin: 0 auto 20px;
-    padding: 3%;
   }
 
   .flow-box:last-child {
   margin-right: auto;
+  }
+
 }
